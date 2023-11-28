@@ -12,8 +12,10 @@ PC cleaner & Privacy tool that cleans unwanted traces.
 Overview: https://www.manageengine.de/produkte-loesungen/kostenlose-produkte-und-editionen.html
 
 ### ManageEngine - Endpoint Central
-Platform: https://endpointcentral.manageengine.eu/
-Register: https://www.manageengine.de/produkte-loesungen/desktop-mobile-devices/endpoint-central.html
+- Platform: https://endpointcentral.manageengine.eu
+- Register: https://www.manageengine.de/produkte-loesungen/desktop-mobile-devices/endpoint-central.html
+
+**Features**
 - Manage up to 25 endpoints for free
 - Web-based software distribution for Windows computers
 - Windows patch management and automated configurations
