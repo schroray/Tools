@@ -12,7 +12,7 @@ PC cleaner & Privacy tool that cleans unwanted traces.
 Overview: https://www.manageengine.de/produkte-loesungen/kostenlose-produkte-und-editionen.html
 
 ### ManageEngine - Endpoint Central
-- Platform: https://endpointcentral.manageengine.eu
+- Platform: https://endpointcentral.manageengine.com/webclient#/uems/home/summary
 - Register: https://www.manageengine.de/produkte-loesungen/desktop-mobile-devices/endpoint-central.html
 
 **Features**
