@@ -20,3 +20,8 @@ Overview: https://www.manageengine.de/produkte-loesungen/kostenlose-produkte-und
 - Web-based software distribution for Windows computers
 - Windows patch management and automated configurations
 - Remote control for support requests and maintenance
+
+
+### Offensive / Defensive
+https://github.com/A-poc/RedTeam-Tools
+https://github.com/A-poc/BlueTeam-Tools
