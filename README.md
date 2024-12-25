@@ -23,5 +23,9 @@ Overview: https://www.manageengine.de/produkte-loesungen/kostenlose-produkte-und
 
 
 ## Offensive / Defensive
-https://github.com/A-poc/RedTeam-Tools
-https://github.com/A-poc/BlueTeam-Tools
+- https://github.com/A-poc/RedTeam-Tools
+- https://github.com/A-poc/BlueTeam-Tools
+
+## Microsoft
+- Sentinel Ninja Training - https://techcommunity.microsoft.com/blog/microsoftsentinelblog/become-a-microsoft-sentinel-ninja-the-complete-level-400-training/1246310
+- Enterprise Skills Initiative - https://esi.microsoft.com
