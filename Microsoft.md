@@ -22,6 +22,7 @@
 - https://techcommunity.microsoft.com/blog/microsoftsecurityandcompliance/recordings--security-community-webinars/2865990
 - Sentinel Ninja Training - https://techcommunity.microsoft.com/blog/microsoftsentinelblog/become-a-microsoft-sentinel-ninja-the-complete-level-400-training/1246310
 - MS Defender for Endpoint Ninja - https://aka.ms/MDENinja
+- MS Partner Silling - https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy
 
 ## Certification
 - https://www.examtopics.com/exams/microsoft/
