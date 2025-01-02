@@ -6,6 +6,9 @@ https://privazer.com/en/
 PC cleaner & Privacy tool that cleans unwanted traces.
 
 ## Office Tools
+### OneNote
+- OneTastic Macros: https://getonetastic.com
+- 
 ### PowerPoint
 - Instrumenta Powerpoint Toolbar: https://github.com/iappyx/Instrumenta
 
