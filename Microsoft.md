@@ -6,6 +6,7 @@
 - https://cmd.ms/
 - https://news.microsoft.com/de-ch/azure-services-in-the-swiss-public-sector/
 - https://aka.ms/LADemo
+- https://m365maps.com/
 
 # Sentinel
 - https://learn.microsoft.com/en-us/azure/sentinel/data-connectors-reference
