@@ -5,7 +5,9 @@ https://privazer.com/en/
 
 PC cleaner & Privacy tool that cleans unwanted traces.
 
-
+## Office Tools
+### PowerPoint
+- Instrumenta Powerpoint Toolbar: https://github.com/iappyx/Instrumenta
 
 ## System Management
 ### ManageEngine - Free Tools
